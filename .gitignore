@@ -1,1 +1,5 @@
 .idea
+JSX/node_modules
+JSX/dist
+JSX/.cache
+.DS_Store
